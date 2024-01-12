@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018227793260",
+    "project_id": "flutter-expensetracker",
+    "storage_bucket": "flutter-expensetracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018227793260:android:b875c786bf18e82380e749",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfvsxWI3-VOm6MFvXNXlMWaph58RMwZ-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
