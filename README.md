@@ -1,4 +1,4 @@
-# expense_tracker
+# Expense-Tracker-Mobile-Application
 
 I have built an Expense Tracker & Budget planner mobile application using Flutter. The functionality of the application are as follows,
 
